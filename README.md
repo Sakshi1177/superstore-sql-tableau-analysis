@@ -1,2 +1,3 @@
-# superstore-sql-tableau-analysis
-SQL + Tableau analysis of Superstore data - South -$2.3K loss RED, West +$140 profit GREEN. By Sakshi Pradhan
+# Superstore Analysis - Sakshi Pradhan
+SQL + Tableau | South -$2,283 RED loss, West +$140 GREEN profit | Furniture 39K sales
+Tools: MySQL, Tableau Public
